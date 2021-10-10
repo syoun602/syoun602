@@ -2,7 +2,7 @@
 
 
 ![syoun602's github stats](https://github-readme-stats.vercel.app/api?username=syoun602&show_icons=true)
-[![syoun602's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=syoun602&exclude_repo=Movzon_OnlineMovieRentalSystem_DB_Project&show_icons=true&hide_border=true&layout=compact&langs_count=5)](https://github.com/syoun602)
+[![syoun602's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=syoun602&exclude_repo=Movzon_OnlineMovieRentalSystem_DB_Project,webgl-tutorial&show_icons=true&hide_border=true&layout=compact&langs_count=5)](https://github.com/syoun602)
 
 ### Contacts 📫
 
