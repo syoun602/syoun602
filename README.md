@@ -7,6 +7,6 @@
 ### Contacts 📫
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:syoun602@gmail.com)](mailto:syoun602@gmail.com)
-[![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@syoun602/)](https://velog.io/@syoun602/) 
+[![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://syoun602.tistory.com/)](https://syoun602.tistory.com/) 
   
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
