@@ -1,4 +1,4 @@
-# Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyoun602&count_bg=%2379C83D&title_bg=%23555555&icon=tinder.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Software Engineer 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyoun602&count_bg=%2379C83D&title_bg=%23555555&icon=tinder.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ![syoun602's Github stats](https://github-readme-stats.vercel.app/api?username=syoun602&show_icons=true&theme=radical)
